@@ -1,63 +1,41 @@
 # Finance Portfolio
 
-Welcome to my Finance & Accounting Portfolio. This repository showcases practical Microsoft Excel projects focused on Financial Analysis, GST Compliance, Sales Analytics, and Corporate Law Compliance.
+Welcome to my Finance & Accounting Portfolio.
+
+This repository contains practical Microsoft Excel projects focused on financial analysis, accounting, GST, and corporate law.
 
 ## Projects
 
-### ☕ Project 1 – Coffee Shop Sales Dashboard
-- Sales trend analysis
-- Product & category performance
-- KPI dashboard
-- Interactive slicers
+### Project 1 – Coffee Shop Sales Dashboard
+- Interactive Excel Dashboard
+- Pivot Tables & Charts
+- KPI Cards
+- Slicers
 
-**Tools:** Excel, Pivot Tables, Pivot Charts, KPI Cards, Slicers
+### Project 2 – Infosys Financial Statement Analysis
+- Financial Ratio Analysis
+- Revenue & Profit Trends
+- Cash Flow Analysis
+- Dashboard
 
----
+### Project 3 – GST Compliance Dashboard
+- GST Calculation
+- GST Summary Report
+- Interactive Dashboard
+- KPI Analysis
 
-### 📊 Project 2 – Infosys Financial Statement Analysis
-- Financial statement analysis (FY2023–FY2025)
-- Revenue & profit trends
-- Cash flow analysis
-- Ratio analysis dashboard
+### Project 4 – Corporate Law Compliance Tracker
+- Compliance Calendar
+- Department-wise Compliance Status
+- Dashboard
+- Case Study
 
-**Tools:** Excel, Financial Analysis, Pivot Charts, KPI Cards
-
----
-
-### 🧾 Project 3 – GST Compliance & Tax Analysis Dashboard
-- GST calculation
-- Tax collection analysis
-- State-wise & product-wise sales
-- Payment status dashboard
-
-**Tools:** Excel, Pivot Tables, Pivot Charts, Slicers
-
----
-
-### ⚖️ Project 4 – Corporate Law Compliance Tracker
-- Compliance calendar
-- Department-wise compliance status
-- Due date tracking
-- Compliance dashboard
-- Case study report
-
-**Tools:** Excel, Data Validation, Pivot Tables, Conditional Formatting
-
----
-
-## Skills Demonstrated
-
+## Tools Used
 - Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Dashboard Design
-- Financial Statement Analysis
-- Ratio Analysis
-- GST Compliance
-- Corporate Law Compliance
-- KPI Reporting
-- Data Visualization
-
----
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
 
 ## About Me
 
